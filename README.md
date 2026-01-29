@@ -113,5 +113,3 @@ The policy is detailed enough to answer **8+ unique questions**.
    - chunk ID
 5. Retrieve top-k similar chunks during a query
 
-### Citations
-Policy answers include sources such as:
