@@ -44,7 +44,7 @@ The LangGraph consists of **three mandatory nodes**:
 ---
 ## Project Structure
 ```text
-somwi/
+Lang graph chatbot/
 │
 ├── backend/
 │   ├── __pycache__/
